@@ -25,6 +25,13 @@ running and using dlang_program.d. Type this command into the terminal:
 
 *dmd dlang_program.d*
 
-After which you will press the RETURN key and type this into the CL to run your program:
+After which you will press the RETURN key and type this into the CL to run your program (be sure to include CL arguments next to this command so the 
+program can do its magic):
 
 *./dlang_program*
+
+## Example Usage
+
+*./dlang_program CS120 is fun*  
+*You wrote 3 arguments.*
+*Each argument has an average of 5 characters.*
