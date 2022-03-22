@@ -20,11 +20,11 @@ Important note: Files writted in D end in the file extension .d
 
 ## Program Compilation and Running (Mac OSX)
 
-To compile using DMD, open terminal and navigate to the directory in which your .d project file is located, let's use hello.d 
-as an example. Once in the desired directory, type this into the CL to compile hello.d:
+To compile using DMD, open terminal and navigate to the directory in which your .d project file is located. In this case, we will be
+running and using dlang_program.d. Type this command into the terminal:
 
-*dmd hello.d*
+*dmd dlang_program.d*
 
 After which you will press the RETURN key and type this into the CL to run your program:
 
-*./hello*
+*./dlang_program*
