@@ -11,6 +11,6 @@ that to the user.
 The simplest way (at least in my experience) to install and set up D on a Mac OS would be to
 open the terminal and type in this command:
 
-curl -fsS https://dlang.org/install.sh | bash -s dmd
+~curl -fsS https://dlang.org/install.sh | bash -s dmd
 
 This installs the DMD compiler for D onto your device.
