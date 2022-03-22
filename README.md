@@ -34,4 +34,5 @@ program can do its magic):
 
 *./dlang_program CS120 is fun*  
 *You wrote 3 arguments.*
+
 *Each argument has an average of 5 characters.*
