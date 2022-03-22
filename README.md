@@ -1,10 +1,10 @@
 # CLI-atlibby
 
+(program and README edited after submission)
+
 This is a small CLI program written in the D language.
 
-This program prompts the user to type something into the command line 10 times, 
-after which it will calculate the average number of characters per argument and display
-that to the user.
+This program takes CL arguments passed in by the user and calculates the average length of each argument.
 
 ## Installation (Mac OSX)
 
